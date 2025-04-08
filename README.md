@@ -12,6 +12,7 @@ This project performs Exploratory Data Analysis (EDA) on a movie dataset to unco
 4.The main goal is to practice and demonstrate EDA skills using Python libraries such as pandas, numpy, seaborn, and matplotlib.
 
 
+
 📂 Dataset
 Source: movies.csv / https://www.kaggle.com/datasets/danielgrijalvas/movies
 
@@ -25,12 +26,20 @@ Converted budget, gross, and votes to numeric types
 
 Cleaned up released year and removed redundant year column
 
+
+
 🛠️ Tools & Libraries
+
 Python 3
+
 pandas
+
 numpy
+
 seaborn
+
 matplotlib
+
 
 🔍 Main Explorations
 
