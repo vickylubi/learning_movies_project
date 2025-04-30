@@ -1,8 +1,8 @@
 # learning_movies_project
 
-Movie Data EDA Project
+## Movie Data EDA Project
 
- Overview
+### Overview
 This project performs Exploratory Data Analysis (EDA) on a movie dataset to uncover insights into:
 
 
@@ -13,7 +13,7 @@ This project performs Exploratory Data Analysis (EDA) on a movie dataset to unco
 
 
 
-Dataset
+### Dataset
 Source: movies.csv / https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 Size: Approx. 2,300 rows with multiple features like budget, gross, votes, rating, company, etc.
@@ -28,7 +28,7 @@ Cleaned up released year and removed redundant year column
 
 
 
-Tools & Libraries
+### Tools & Libraries
 
 Python 3
 
@@ -41,7 +41,7 @@ seaborn
 matplotlib
 
 
-Main Explorations
+### Main Explorations
 
 Missing Value Analysis
 
